@@ -25,9 +25,18 @@
 # 원본 소스 경고
 
 ## ASLR(주소 공간 레이아웃 임의화)
-- ASLR(Address Space Layout Randomization)이란? 메모리 손상 취약점 공격을 방지 하기 위한 기술
-  원본 소스 64빌드 경고
+- ASLR(Address Space Layout Randomization)이란?
+
+  메모리 손상 취약점 공격을 방지 하기 위한 기술
+
+- 원본 소스 64빌드 경고 내용
+
   warning LNK4281: x64 이미지에 대한 적합하지 않은 기준 주소 0x3200000. 가장 적합한 ASLR 최적화를 위해 4GB 이상의 기준 주소를 설정하세요.
+
+
+## x64 변경 주소
+  0x103200000
+
 
 
 

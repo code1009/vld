@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
+    <Filter Include="code1009">
+      <UniqueIdentifier>{b9203ba8-f6dd-4d27-b7bd-39d63b0fe657}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="callstack.cpp">
@@ -103,5 +106,10 @@
   </ItemGroup>
   <ItemGroup>
     <Natvis Include="vld.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\code1009\readme.md">
+      <Filter>code1009</Filter>
+    </None>
   </ItemGroup>
 </Project>
