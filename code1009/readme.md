@@ -43,6 +43,17 @@
 # Win32 버젼은 탐지 못하는 문제가 있음
 
 
+# x64 버전 경고 메시지
+Visual Leak Detector read settings from: D:\practice\practice_cpp_stl\x64\Debug\vld.ini
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+469: !!! VirtualProtect FAILED when protecting for address=00007FFA36C9397A, size=8, with GetLastError()=487, protect_handle->address=00007FFA36C9397A, protect_handle->size=8
+Visual Leak Detector Version 2.5.9 installed.
+
+
 
 
 
